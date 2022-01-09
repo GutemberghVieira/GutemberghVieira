@@ -1,4 +1,4 @@
-### Hellow! My name is Gutembergh 👋
+### Olá! Muito Prazer Sou o desenvolvedor junior Gutembergh!👋
 
 
 - 🔭 estou a procura de um emprego como front-end/jr...
