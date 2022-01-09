@@ -26,4 +26,5 @@
   
   <div>
     <a href="https://www.linkedin.com/in/gutembergh-vieira-987b82222/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+    <a href="https://www.youtube.com/channel/UCIAt9WYVtqorQ7aarRVWnrg" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
   </div>
