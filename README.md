@@ -1,4 +1,4 @@
-### Hi! My name is Gutembergh 👋
+### Hellow! My name is Gutembergh 👋
 
 
 - 🔭 estou a procura de um emprego como front-end/jr...
