@@ -16,6 +16,7 @@
   
    </div>
   <div>
+    <img align="right" alt="Developer" height="600" width="500" src="1834202-homem-com-computador-e-video-chat-design-grátis-vetor">
     <img align="center" alt="Guth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Guth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
