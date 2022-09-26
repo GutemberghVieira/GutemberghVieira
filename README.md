@@ -13,11 +13,11 @@
 
 <div align="left">
      
-- 🔭 estou a procura de um emprego como front-end/jr...
-- 🌱 Estudante de html, css, Bootstrap Jquery e java script a 1 ano!...
-- 💬 Pergunte me sobre:propóstas de emprego...
-- 😄 pronomes:ele/dele ...
+Olá Meu nome é Gutembergh tenho 20 anos  estudandte de tecnologias Frot-end a 1 ano
+meu objetivo é dominar as linguagens de programação e desenvolver sites grandes,
+Sou apaixonado por tecnologias e quero sempre estár em constante aprendisagem!
    </div>
+   
 
   <div align="left">
   <a href="https://github.com/GutemberghVieira">
