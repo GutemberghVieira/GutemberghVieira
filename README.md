@@ -2,7 +2,8 @@
 
 ##
 
-<div align="right">
+<div align="left">
+     <a href="https://github.com/GutemberghVieira">
 - 🔭 estou a procura de um emprego como front-end/jr...
 - 🌱 Estudante de html, css, Bootstrap Jquery e java script a 1 ano!...
 - 💬 Pergunte me sobre:propóstas de emprego...
