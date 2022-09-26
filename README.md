@@ -7,7 +7,7 @@
 
    
    <a target="_blank" href="https://github.com/GutemberghVieira">
-  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" align="right"   width="180em" style="max-width:100%; background:blue;">
+  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" align="right"   width="700px" style="max-width:100%; background:blue;">
    </a>
    
 <p >tenho 20 anos estudo programação a um 1 ano,
