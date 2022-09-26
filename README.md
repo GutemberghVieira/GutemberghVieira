@@ -35,7 +35,7 @@ aprendizagem para criar projetos e vende-los!👨‍💼👨‍💼
 ##
   
   <div>
-    <a href="https://www.linkedin.com/in/gutembergh-vieira-987b82222/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+    <a href="https://www.linkedin.com/in/gutembergh-vieira-987b82222/" target="_blank"> <img src="https://camo.githubusercontent.com/8e2fd59119394d8b62427a61db0bacdbbd3b396070c263a314c6e445ebe8261c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3636313046323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d464646464646266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f69757269636f6465" target="_blank"> </a>
     <a href="https://www.youtube.com/channel/UCIAt9WYVtqorQ7aarRVWnrg" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"> </a>
     <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="background:purple;" target="_blank"> </a>
          <a href="https://www.instagram.com/gut_embergh04/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="background:purple;" target="_blank">  </a>  
