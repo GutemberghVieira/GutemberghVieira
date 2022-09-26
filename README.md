@@ -19,14 +19,6 @@ Sou apaixonado por tecnologias e quero sempre estár em constante aprendisagem!
    </div>
    
 
-  <div align="left">
-  <a href="https://github.com/GutemberghVieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
-    
-
-     <a href="https://github.com/GutemberghVieira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=truelangs_count=8">
-    </div>
   
    
   
