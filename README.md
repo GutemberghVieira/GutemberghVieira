@@ -3,12 +3,12 @@
 ##
 
 
-   <div align-left>
+   
    <a target="_blank" href="https://github.com/GutemberghVieira">
-  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" width="400px">
+  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" align="left" width="400px">
    </a>
 
-  </div>
+  
 
 
 
