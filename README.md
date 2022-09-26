@@ -10,7 +10,7 @@
 
 
 
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/GutemberghVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
     
@@ -21,10 +21,7 @@
   
    
   
-  <div> 
-  <img align="center" alt="Guth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Guth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
+ 
 
 ##
   
