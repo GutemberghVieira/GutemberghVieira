@@ -1,8 +1,14 @@
-### Olá! Muito Prazer Sou o desenvolvedor junior Gutembergh!👋
+### Hello, my name is Gutembergh!👋 
 
 ##
 
-
+<div align="left">
+<p>tenho 20 anos estudo programação a um 1 ano,
+estou a procura de desenvolver meu primeiro site 
+para empresas, meu objetivo é estar em constante
+aprendizagem para criar projetos e vende-los!👨‍💼👨‍💼
+</p>
+</div>
    
    <a target="_blank" href="https://github.com/GutemberghVieira">
   <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" align="center" width="400px">
