@@ -1,5 +1,5 @@
 ### Olá! Muito Prazer Sou o desenvolvedor junior Gutembergh!👋
-<hr>
+
 
 - 🔭 estou a procura de um emprego como front-end/jr...
 - 🌱 Estudante de html, css, Bootstrap Jquery e java script a 1 ano!...
@@ -19,7 +19,7 @@
    </div>
   <div>
   
-    <img align="center" alt="Guth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="Guth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Guth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
