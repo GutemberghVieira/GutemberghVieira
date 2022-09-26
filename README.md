@@ -8,15 +8,15 @@
   <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" align="left" width="400px">
    </a>
 
-  
+  <br>
 
 
 
   <div align="left">
-
+    <a href="https://github.com/GutemberghVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
     
-
+ <a href="https://github.com/GutemberghVieira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=truelangs_count=8">
     </div>
   
