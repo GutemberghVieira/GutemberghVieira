@@ -8,9 +8,7 @@
 - 😄 pronomes:ele/dele ...
 - 😅 um fato sobre mim:não sou muito bom em inglês, Más Irei Aprender...
 
-<div>
-<img src="https://github.com/GutemberghVieira/GutemberghVieira/issues/2#issue-1386113717" width="400px">
-</div>
+
 
 
   <div align="center">
