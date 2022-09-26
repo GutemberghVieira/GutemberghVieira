@@ -8,10 +8,6 @@
   <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/27e3d2e525137d5e3432f8fe7a1f13c1e23e7b9e/What-You-Should-Know-About-Optimizing-Your-Website-for-Performance.png" width="600px">
    </a>
 
-  </div>
-
-
-<div align="left">
      
 Olá Meu nome é Gutembergh tenho 20 anos  estudandte de tecnologias Frot-end a 1 ano
 meu objetivo é dominar as linguagens de programação e desenvolver sites grandes,
