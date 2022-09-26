@@ -11,13 +11,6 @@
   </div>
 
 
-<div dir="auto">
-     
-- 🔭 estou a procura de um emprego como front-end/jr...
-- 🌱 Estudante de html, css, Bootstrap Jquery e java script a 1 ano!...
-- 💬 Pergunte me sobre:propóstas de emprego...
-- 😄 pronomes:ele/dele ...
-   </div>
 
   <div align="left">
   <a href="https://github.com/GutemberghVieira">
