@@ -2,7 +2,7 @@
 
 ##
 
-<div align="left" width="50px">
+<div align="center" width="50px">
 <p>tenho 20 anos estudo programação a um 1 ano,
 estou a procura de desenvolver meu primeiro site 
 para empresas, meu objetivo é estar em constante
