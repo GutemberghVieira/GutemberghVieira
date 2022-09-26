@@ -2,9 +2,9 @@
 
 ##
 
-<div align="left">
+<div align="left" width="200px">
 <p>tenho 20 anos estudo programação a um 1 ano,
-estou a procura de desenvolver meu primeiro site <br>
+estou a procura de desenvolver meu primeiro site 
 para empresas, meu objetivo é estar em constante
 aprendizagem para criar projetos e vende-los!👨‍💼👨‍💼
 </p>
