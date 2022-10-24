@@ -10,7 +10,9 @@
   <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/main/1397022-Anime-nbspCyberpunk-Sci-Fi-Katana-Anime-Girls.png" align="right"   width="300px" style="max-width:100%; background:blue;">
    </a>
    
-<p >tenho 20 anos estudo programação a um 1 ano!👨‍💼👨‍💼
+<p >tenho 20 anos estudo programação a um 1 ano! 
+e Almejo a oportunidade de atuar como (Desenvolvedor front-end) e, 
+por meio deste cargo, assumir novos desafios e habilidades👨‍💼👨‍💼
 </p>
 </div>
   <br>
