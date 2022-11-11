@@ -7,7 +7,7 @@
 
    
    <a target="_blank" href="https://github.com/GutemberghVieira">
-  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/main/anime-girl-sci-fi-katana-2k-wallpaper-3840x1600.gif" align="right"   width="300px" style="max-width:100%; background:blue;">
+  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/main/anime-girl-sci-fi-katana-2k-wallpaper-3840x1600.gif" align="right"   width="900px" style="max-width:100%; background:blue;">
    </a>
    
 <p >tenho 20 anos estudo programação a um 1 ano! 
