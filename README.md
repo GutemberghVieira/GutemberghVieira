@@ -21,10 +21,10 @@ por meio deste cargo, assumir novos desafios e habilidades👨‍💼👨‍💼
 
   <div align="left">
     <a href="https://github.com/GutemberghVieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
     
  <a href="https://github.com/GutemberghVieira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=merko&include_all_commits=true&count_private=truelangs_count=8">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=truelangs_count=8">
     </div>
   
    
