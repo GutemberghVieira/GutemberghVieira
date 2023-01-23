@@ -10,9 +10,10 @@
   <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/main/anime-girl-sci-fi-katana-2k-wallpaper-3840x1600.gif" align="right"   width="600px" style="max-width:100%; background:blue;">
    </a>
    
-<p >tenho 21 anos estudo programação a um 1 ano! 
-e Almejo a oportunidade de atuar como (Desenvolvedor front-end) e, 
-por meio deste cargo, assumir novos desafios e habilidades👨‍💼👨‍💼
+   
+   <h2 align="center">Welcome</h2>
+<p >
+WEB developer 
 </p>
 </div>
   <br>
