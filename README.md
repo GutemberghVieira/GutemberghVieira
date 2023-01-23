@@ -35,7 +35,12 @@
     </div>
   
    
-  
+  <p align="center">
+<a href="#-tecnologias">Tecnlogias</a>
+<a href="#-projeto">Projeto</a>
+<a href="#-layout">Layout</a>
+<a href="#MIT-licença">Lincença</a>
+</p>
  
 
 ##
