@@ -12,15 +12,15 @@
    
    
    <h2 align="center">Welcome</h2>
-<p >
-WEB developer
+
+### 🤖WEB developer
    -typeScript
    -Prisma
    -SQL
    -React
-   -javaScript
-   -JSon
-</p>
+   - javaScript
+   ##JSon
+
 </div>
   <br>
 
