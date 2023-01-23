@@ -7,7 +7,7 @@
 
    
    <a target="_blank" href="https://github.com/GutemberghVieira">
-  <img src="https://github.com/GutemberghVieira/PortfolioDaWeb/blob/main/anime-girl-sci-fi-katana-2k-wallpaper-3840x1600.gif" align="right"   width="600px" style="max-width:100%; background:blue;">
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/aniyuki-nezuko-kamado-gif-11.gif" align="right"   width="600px" style="max-width:100%; background:blue;">
    </a>
    
    
@@ -34,13 +34,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=truelangs_count=8">
     </div>
   
-   
-  <p align="center">
-<a href="#-tecnologias">Tecnlogias</a>
-<a href="#-projeto">Projeto</a>
-<a href="#-layout">Layout</a>
-<a href="#MIT-licença">Lincença</a>
-</p>
+ 
  
 
 ##
