@@ -20,6 +20,9 @@
    - React
    - javaScript
    - JSon
+   - React Native 
+   - React
+   
 
 </div>
   <br>
