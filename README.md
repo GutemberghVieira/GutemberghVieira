@@ -26,8 +26,8 @@
 
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=cobalt"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=cobalt"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=GutemberghVieira&show_icons=true&theme=gruvbox"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutemberghVieira&show_icons=true&theme=gruvbox"/>
  
  
 
