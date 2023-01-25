@@ -21,7 +21,7 @@
   <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-react-100.png">
   <br/>
   <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-css3-48.png">
-  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48.png">
+
    
    
 
