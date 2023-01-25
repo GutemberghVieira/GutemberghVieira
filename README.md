@@ -14,14 +14,12 @@
    <h2 align="center">Welcome</h2>
 
 ### 🤖WEB developer
-   - typeScript
-   - Prisma
-   - SQL
-   - React
-   - javaScript
-   - JSon
-   - React Native 
-   - React
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-typescript-48.png">
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-nodejs-48.png">
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-tailwindcss-48.png">
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-javascript-48.png">
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-react-100.png">
+   
    
 
 </div>
