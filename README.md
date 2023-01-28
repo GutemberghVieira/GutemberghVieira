@@ -22,7 +22,7 @@
   <br/>
   <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-css3-48.png">
   <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-html-5-48.png">
-   
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/icons8-json-(javascript-object-notation)-is-a-lightweight-data-interchange-format-48.png"> 
    
 
 </div>
