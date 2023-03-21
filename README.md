@@ -7,7 +7,7 @@
 
    
    <a target="_blank" href="https://github.com/GutemberghVieira">
-  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/aniyuki-nezuko-kamado-gif-11.gif" align="right"   width="500px" style="max-width:100%; background:blue;">
+  <img src="https://github.com/GutemberghVieira/nlw-setup/blob/main/aniyuki-nezuko-kamado-gif-11.gif" align="right"   width="100px" style="max-width:100%; background:blue;">
    </a>
    
    
