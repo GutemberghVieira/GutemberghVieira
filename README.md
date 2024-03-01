@@ -3,12 +3,6 @@
 ##
 
 <div align="left" width="50px">
-
-
-   
-  
-   
-   
    <h2 align="center">Welcome</h2>
 
 ### 🤖WEB developer
